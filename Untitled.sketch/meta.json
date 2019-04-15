@@ -1,15 +1,6 @@
 {
 "commit" : "399b83655ed261b257875cf8e762efa1a649509e",
-"pagesAndArtboards" : {
-"8387E4DF-2662-4447-AD77-E102BB20D953" : {
-"name" : "Page 1",
-"artboards" : {
-"573586AF-A107-455C-90D0-681859FC00BF" : {
-"name" : "iPhone 8"
-}
-}
-}
-},
+"build" : 76490,
 "version" : 118,
 "fonts" : [
 
@@ -31,5 +22,14 @@
 "NONAPPSTORE.76490"
 ],
 "appVersion" : "54.1",
-"build" : 76490
+"pagesAndArtboards" : {
+"8387E4DF-2662-4447-AD77-E102BB20D953" : {
+"name" : "Page 1",
+"artboards" : {
+"573586AF-A107-455C-90D0-681859FC00BF" : {
+"name" : "iPhone 8"
+}
+}
+}
+}
 }
