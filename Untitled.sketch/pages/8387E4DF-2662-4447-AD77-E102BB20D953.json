@@ -1,12 +1,19 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
-"startDecorationType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"endDecorationType" : 0
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
 "frame" : {
 "x" : 0,
 "y" : 0,
@@ -16,6 +23,160 @@
 "width" : 300
 },
 "do_objectID" : "8387E4DF-2662-4447-AD77-E102BB20D953",
+"hasClickThrough" : true,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"includeInCloudUpload" : true,
+"layerListExpandedType" : 0,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Page 1",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 154,
+"y" : -55,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 667,
+"width" : 375
+},
+"do_objectID" : "573586AF-A107-455C-90D0-681859FC00BF",
+"hasClickThrough" : true,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"hasBackgroundColor" : false,
+"includeInCloudUpload" : true,
+"layerListExpandedType" : 0,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"resizesContent" : false,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "iPhone 8",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"endMarkerType" : 2,
+"miterLimit" : 10,
+"startDecorationType" : 0,
+"borderOptions" : {
+"lineJoinStyle" : 0,
+"_class" : "borderOptions",
+"isEnabled" : false,
+"lineCapStyle" : 2,
+"dashPattern" : [
+
+]
+},
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.84699999999999998,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.84699999999999998,
+"green" : 0.84699999999999998
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endDecorationType" : 2
+},
+"rotation" : 0,
+"frame" : {
+"x" : 159,
+"y" : 153,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 116,
+"width" : 83
+},
+"do_objectID" : "7FBF3D8E-E294-4361-BAE7-3F9E5B00D148",
 "layerListExpandedType" : 0,
 "exportOptions" : {
 "shouldTrim" : false,
@@ -28,32 +189,77 @@
 
 ]
 },
-"hasClickThrough" : true,
-"horizontalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
-"includeInCloudUpload" : true,
-"verticalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
+"edited" : true,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
-"name" : "Page 1",
+"clippingMaskMode" : 0,
+"name" : "Line",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
-"layers" : [
-
-],
+"isClosed" : false,
 "isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.0060240963855421907, 0.99568965517241448}",
+"point" : "{0.0060240963855421907, 0.99568965517241448}",
+"cornerRadius" : 0,
+"curveTo" : "{0.0060240963855421907, 0.99568965517241448}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.0060240963855421907, 0.99568965517241448}",
+"point" : "{0.9939759036144582, 0.0043103448275861878}",
+"cornerRadius" : 0,
+"curveTo" : "{0.0060240963855421907, 0.99568965517241448}",
+"hasCurveFrom" : false
+}
+],
 "shouldBreakMaskChain" : false,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"_class" : "shapePath",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"isFlowHome" : false,
+"shouldBreakMaskChain" : true,
+"isFixedToViewport" : false,
+"presetDictionary" : {
+"width" : 375,
+"offersLandscapeVariant" : 1,
+"height" : 667,
+"allowResizedMatching" : 1,
+"name" : "iPhone 8"
+},
+"_class" : "artboard",
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
 "_class" : "page",
+"booleanOperation" : 0,
 "resizingConstraint" : 63
 }
